@@ -1,19 +1,19 @@
 {
   "topics": [
     {
-      "id": 1,
-      "title": "to learn angular",
-      "completed": false
+      "Speed": 1,
+      "id": "to learn angular",
+      "type": false
     },
     {
-      "id": 2,
-      "title": "to learn french",
-      "completed": true
+      "Speed": 2,
+      "id": "to learn angular",
+      "type": false
     },
     {
-      "id": 3,
-      "title": "to learn some",
-      "completed": false
+      "Speed": 3,
+      "id": "to learn angular",
+      "type": false
     }
   ]
 }
