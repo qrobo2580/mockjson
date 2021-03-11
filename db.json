@@ -3,17 +3,17 @@
     {
       "Speed": 1,
       "id": "to learn angular",
-      "type": false
+      "type": "false"
     },
     {
       "Speed": 2,
       "id": "to learn angular",
-      "type": false
+      "type": "true"
     },
     {
       "Speed": 3,
       "id": "to learn angular",
-      "type": false
+      "type": "false"
     }
   ]
 }
