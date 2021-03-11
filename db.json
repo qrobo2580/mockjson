@@ -1,17 +1,17 @@
 {
   "topics": [
     {
-      "Speed": 1,
+      "speed": "5",
       "id": "to learn angular",
       "type": "false"
     },
     {
-      "Speed": 2,
+      "speed": "2",
       "id": "to learn angular",
       "type": "true"
     },
     {
-      "Speed": 3,
+      "speed": "3",
       "id": "to learn angular",
       "type": "false"
     }
